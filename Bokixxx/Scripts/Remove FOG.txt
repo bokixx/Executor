@@ -1,0 +1,4 @@
+local Lighting = game:GetService("Lighting")
+-- fog will fade between 25 and 200 studs
+Lighting.FogStart = 29999
+Lighting.FogEnd = 99999999

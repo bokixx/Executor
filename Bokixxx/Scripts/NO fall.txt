@@ -1,0 +1,4 @@
+-- Nature Disaster No Fall Damage Script Made By CharliezkieDevs
+ 
+local falldamageScript = game:GetService("Players").LocalPlayer.Character:FindFirstChild("FallDamageScript")
+falldamageScript:remove()
